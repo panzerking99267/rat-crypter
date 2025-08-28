@@ -3,7 +3,7 @@
 A modular, community-driven encryption utility for all payloads & creative mods.
 - **Features:** AES/XOR/ChaCha/Stego/Compression, plugin system, themeable, drag & drop, batch, more.
 - **Mods:** Drop Python files in `plugins/` to add new tools instantly.
-- **Run:** `python main.py`
+- **Run:** `python ultimate_crypter.py`
 - **Create Mods:** See `plugins/sample_mod.py`.
 
 ---
